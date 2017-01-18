@@ -15,7 +15,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author master
+ * @author giangiu
  */
 public class Logger {
 
